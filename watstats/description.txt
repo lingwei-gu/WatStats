@@ -1,2 +1,2 @@
 Python and Mac version
-It uses Selenium and Firefox to log in to your watcard account automatically.
+It uses Selenium and Firefox to log in to your watcard account and go to the "transaction" page automatically.
